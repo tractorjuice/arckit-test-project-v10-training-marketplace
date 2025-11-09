@@ -1,0 +1,17 @@
+# ArcKit Test Project - Training Marketplace Platform
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Project-specific (keep generated artifacts)
+# We want to commit all generated docs for demo purposes
