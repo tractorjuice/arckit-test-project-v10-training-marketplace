@@ -1,16 +1,16 @@
 # C4 Container Diagram - AI Training Marketplace
 
-> **Template Status**: Live | **Version**: 0.11.1 | **Command**: `/arckit.diagram`
+> **Template Status**: Live | **Version**: 0.11.2 | **Command**: `/arckit.diagram`
 
 ## Document Information
 
 | Field | Value |
 |-------|-------|
-| **Document ID** | ARC-001-DIAG-CONTAINER-v1.1 |
+| **Document ID** | ARC-001-DIAG-CONTAINER-v1.2 |
 | **Project** | AI Training Marketplace (Project 001) |
 | **Diagram Type** | C4 Container (Level 2) |
 | **Classification** | OFFICIAL |
-| **Version** | 1.1 |
+| **Version** | 1.2 |
 | **Status** | DRAFT |
 | **Date** | 2025-11-09 |
 | **Owner** | Solution Architect |
