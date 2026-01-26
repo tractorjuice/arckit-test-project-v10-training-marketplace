@@ -1,15 +1,17 @@
 # Project Plan: AI Training Marketplace
 
+> **Template Status**: Live | **Version**: 0.11.1 | **Command**: `/arckit.plan`
+
 ## Document Control
 
 | Field | Value |
 |-------|-------|
-| **Document ID** | ARC-001-PLAN-v1.1 |
+| **Document ID** | ARC-001-PLAN-v1.2 |
 | **Document Type** | Project Plan & Timeline |
 | **Project** | AI Training Marketplace (Project 001) |
 | **Classification** | OFFICIAL |
 | **Status** | DRAFT |
-| **Version** | 1.1 |
+| **Version** | 1.2 |
 | **Created Date** | 2025-11-09 |
 | **Last Modified** | 2026-01-26 |
 | **Review Cycle** | Monthly |
@@ -25,6 +27,7 @@
 |---------|------|--------|---------|-------------|---------------|
 | 1.0 | 2025-11-09 | ArcKit AI | Initial creation from `/arckit.plan` command | [PENDING] | [PENDING] |
 | 1.1 | 2026-01-26 | ArcKit AI | Updated to match latest template structure (Document Control fields) | [PENDING] | [PENDING] |
+| 1.2 | 2026-01-26 | ArcKit AI | Added Template Status metadata line per latest template | [PENDING] | [PENDING] |
 
 ---
 
