@@ -12,6 +12,7 @@ Thumbs.db
 *.tmp
 *.bak
 *~
+.backup
 
 # Project-specific (keep generated artifacts)
 # We want to commit all generated docs for demo purposes
