@@ -1,15 +1,18 @@
 {
-  "generated": "2026-01-25T10:30:00Z",
+  "generated": "2026-01-28T19:30:00Z",
   "repository": {
     "owner": "tractorjuice",
     "name": "arckit-test-project-v10-training-marketplace",
     "branch": "main"
   },
+  "defaultDocument": "projects/000-global/ARC-000-PRIN-v1.0.md",
   "global": [
     {
-      "path": ".arckit/memory/architecture-principles.md",
+      "path": "projects/000-global/ARC-000-PRIN-v1.0.md",
       "title": "Architecture Principles",
-      "category": "Architecture"
+      "category": "Architecture",
+      "documentId": "ARC-000-PRIN-v1.0",
+      "isDefault": true
     }
   ],
   "projects": [
@@ -18,42 +21,53 @@
       "name": "AI Training Marketplace",
       "documents": [
         {
-          "path": "projects/001-ai-training-marketplace/stakeholder-drivers.md",
+          "path": "projects/001-ai-training-marketplace/ARC-001-STKE-v1.0.md",
           "title": "Stakeholder Drivers",
-          "category": "Discovery"
+          "category": "Discovery",
+          "documentId": "ARC-001-STKE-v1.0"
         },
         {
-          "path": "projects/001-ai-training-marketplace/requirements.md",
+          "path": "projects/001-ai-training-marketplace/ARC-001-REQ-v1.0.md",
           "title": "Requirements",
-          "category": "Discovery"
+          "category": "Discovery",
+          "documentId": "ARC-001-REQ-v1.0"
         },
         {
-          "path": "projects/001-ai-training-marketplace/project-plan.md",
+          "path": "projects/001-ai-training-marketplace/ARC-001-PLAN-v1.0.md",
           "title": "Project Plan",
-          "category": "Planning"
+          "category": "Planning",
+          "documentId": "ARC-001-PLAN-v1.0"
         },
         {
-          "path": "projects/001-ai-training-marketplace/data-model.md",
+          "path": "projects/001-ai-training-marketplace/ARC-001-DATA-v1.0.md",
           "title": "Data Model",
-          "category": "Architecture"
+          "category": "Architecture",
+          "documentId": "ARC-001-DATA-v1.0"
         },
         {
-          "path": "projects/001-ai-training-marketplace/platform-design.md",
+          "path": "projects/001-ai-training-marketplace/ARC-001-PLAT-v1.0.md",
           "title": "Platform Design",
-          "category": "Architecture"
+          "category": "Operations",
+          "documentId": "ARC-001-PLAT-v1.0"
         }
       ],
       "diagrams": [
         {
-          "path": "projects/001-ai-training-marketplace/diagrams/context-ai-training-marketplace.md",
-          "title": "System Context Diagram"
+          "path": "projects/001-ai-training-marketplace/diagrams/ARC-001-DIAG-001-v1.0.md",
+          "title": "C4 Container Diagram",
+          "documentId": "ARC-001-DIAG-001-v1.0"
         },
         {
-          "path": "projects/001-ai-training-marketplace/diagrams/container-ai-training-marketplace.md",
-          "title": "Container Diagram"
+          "path": "projects/001-ai-training-marketplace/diagrams/ARC-001-DIAG-002-v1.0.md",
+          "title": "C4 Context Diagram",
+          "documentId": "ARC-001-DIAG-002-v1.0"
         }
       ],
       "decisions": [],
+      "wardleyMaps": [],
+      "dataContracts": [],
+      "reviews": [],
+      "research": [],
       "vendors": []
     }
   ]
