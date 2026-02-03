@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-28T19:30:00Z",
+  "generated": "2026-02-03T12:00:00Z",
   "repository": {
     "owner": "tractorjuice",
     "name": "arckit-test-project-v10-training-marketplace",
@@ -33,10 +33,10 @@
           "documentId": "ARC-001-REQ-v1.0"
         },
         {
-          "path": "projects/001-ai-training-marketplace/ARC-001-PLAN-v1.0.md",
-          "title": "Project Plan",
-          "category": "Planning",
-          "documentId": "ARC-001-PLAN-v1.0"
+          "path": "projects/001-ai-training-marketplace/ARC-001-PLAT-v1.0.md",
+          "title": "Platform Design",
+          "category": "Architecture",
+          "documentId": "ARC-001-PLAT-v1.0"
         },
         {
           "path": "projects/001-ai-training-marketplace/ARC-001-DATA-v1.0.md",
@@ -45,10 +45,10 @@
           "documentId": "ARC-001-DATA-v1.0"
         },
         {
-          "path": "projects/001-ai-training-marketplace/ARC-001-PLAT-v1.0.md",
-          "title": "Platform Design",
-          "category": "Operations",
-          "documentId": "ARC-001-PLAT-v1.0"
+          "path": "projects/001-ai-training-marketplace/ARC-001-PLAN-v1.0.md",
+          "title": "Project Plan",
+          "category": "Planning",
+          "documentId": "ARC-001-PLAN-v1.0"
         }
       ],
       "diagrams": [
